@@ -21,10 +21,6 @@ This is a **responsive and visually engaging personal portfolio website** built 
 * Social media links (GitHub, LinkedIn, Instagram)
 
 🔗 Live Demo
-https://aleenshylaja-personal-portfolio.netlify.app/
-
 👉 [View Live Site](https://aleenshylaja-personal-portfolio.netlify.app)
 
----
 
-Let me know if you'd like a minimal version or want me to generate badges, installation steps, or code usage instructions.
