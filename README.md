@@ -1,26 +1,12 @@
- 🚀 Personal Portfolio Website
+# React + Vite
 
-This is a **responsive and visually engaging personal portfolio website** built using **ReactJS + Vite** and styled with **Tailwind CSS**. It showcases my skills, projects, and contact information in a modern, developer-friendly layout.
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-🔧 Tech Stack
+Currently, two official plugins are available:
 
-* **Frontend Framework:** ReactJS (with Vite for faster development and builds)
-* **Styling:** Tailwind CSS
-* **Routing:** React Router (if used)
-* **Deployment:** Netlify
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-🌟 Features
+## Expanding the ESLint configuration
 
-* Clean, modern UI with dark theme
-* Responsive design across all screen sizes
-* About section with educational background
-* Skills section with icons for tech stack
-* Projects section with real-world applications
-* Contact form with functional input fields
-* Downloadable CV button
-* Social media links (GitHub, LinkedIn, Instagram)
-
-🔗 Live Demo
-👉 [View Live Site](https://aleenshylaja-personal-portfolio.netlify.app)
-
-
+If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
